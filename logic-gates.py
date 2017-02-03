@@ -1,7 +1,7 @@
-print '|-------------------------------------------- |'
+print '|---------------------------------------------|'
 print '| Welcome to the Logical Processing Simulator |'
 print '|     Choose a Logical  Gate to Simulate      |'
-print '|-------------------------------------------- |'
+print '|---------------------------------------------|'
 
 print'\n'
 

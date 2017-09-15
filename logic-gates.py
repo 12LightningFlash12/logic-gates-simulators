@@ -1,6 +1,7 @@
 print '|---------------------------------------------|'
 print '| Welcome to the Logical Processing Simulator |'
 print '|     Choose a Logical  Gate to Simulate      |'
+print '|       Programmed by:  Zackery Fleming       |'
 print '|---------------------------------------------|'
 
 print'\n'
